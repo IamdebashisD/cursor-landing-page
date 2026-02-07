@@ -22,25 +22,21 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 20px;
+    padding: 7px 18px;
+    margin-left: 1px;
     background-color: transparent;
 }
 
 .cursor-logo {
-    width: 23px;
-    height: 21px;
-    margin-right: 2px;
+    width: 95px;
+    height: 22px;
 }
-.cursor-word {
-    width: 74px;
-    color: #e2e2e2;
-} 
 
 .header-left a {
     color: #e2e2e2;
     text-decoration: none;
-    margin-left: 3px;
-    padding-right: 10px;
+    margin-left: 0;
+    padding: 4px;
     text-align: center;
     font-weight: 500;
     line-height: 1px;
